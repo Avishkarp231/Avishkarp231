@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avishkarp231
-- 👀 I’m interested in Web Dev , animes and movies.
+- 👀 I’m interested in Web/App Dev , animes and movies.
 - 🌱 I’m currently learning Java right now.
 - 💞️& about collaborations I'm begineer in coding so no plans.
 - 📫 avishkarp231@gmail.com
