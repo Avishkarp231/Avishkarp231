@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avishkarp231
-- 👀 I’m interested in Web/App Dev , animes and movies.
-- 🌱 I’m currently learning Java right now.
-- 💞️& about collaborations I'm begineer in coding so no plans.
+- 👀 I’m interested in ML/DL/RL Dev , animes and movies.
+- 🌱 I’m currently into RL. 
+- 💞️ Will love to collab and work on some interesting projects.
 - 📫 avishkarp231@gmail.com
 
 <!---
