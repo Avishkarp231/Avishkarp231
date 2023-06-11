@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Avishkarp231
 - 👀 I’m interested in ML/DL/NLP Dev , animes and movies.
-- 🌱 I’m currently into NLP. 
 - 💞️ Will love to collab and work on some interesting projects.
 - 📫 avishkarp231@gmail.com
 
